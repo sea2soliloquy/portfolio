@@ -9,7 +9,7 @@
       "line": "AI 활용방법을 알게되었음.",
       "judgment": "좋은 강좌입니다.",
       "ai": ["Claude Code"],
-      "url": "https://github.com/sea2soliloquy/gam-test",
+      "url": "https://gam-test-coral.vercel.app",
       "img": "img/w1.jpg"
     }
   ],
